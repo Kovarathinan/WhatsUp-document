@@ -4,3 +4,4 @@ This is the WhatsUp code:
 3)contact info
 4)chat with others.
 5)Hide online
+6)Add video and audio feature
